@@ -1,3 +1,5 @@
+不會才抄，不然還是燒腦想一想會比較好XD
+加油啊ヾ(◍°∇°◍)ﾉﾞ
 #Ex 11
 def calculate(num1,operator,num2):
     if(operator=="+"):
